@@ -1,7 +1,7 @@
 # 🚂 🏔 IRL Ticket to Ride: `webpaige` migrations
 ### _Winter 2021 - 2022_
 
-### Hello, stranger!
+### Hello, stranger
 
 This winter, I'll be traveling around the United States, taking advantage of Amtrak's very reasonably priced $499 Rail Pass. With this pass, each intrepid explorer has the ability to book 10 one-way rail trips around the United States during a 30 day period. Adventures abound!
 
